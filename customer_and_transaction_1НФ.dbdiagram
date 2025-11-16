@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "darkMode": true,
+  "gridEnabling": false,
+  "detailLevel": "All",
+  "tablePositions": [
+    {
+      "name": "transactions",
+      "schemaName": "public",
+      "x": -160,
+      "y": -338
+    },
+    {
+      "name": "customers",
+      "schemaName": "public",
+      "x": 298.890625,
+      "y": -338
+    }
+  ],
+  "tableGroupCollapseStates": [],
+  "stickyNoteLayouts": [],
+  "referencePaths": [
+    {
+      "firstFieldNames": [
+        "customer_id"
+      ],
+      "firstTableName": "transactions",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "customer_id"
+      ],
+      "secondTableName": "customers",
+      "secondSchemaName": "public",
+      "secondRelation": "1",
+      "checkPoints": []
+    }
+  ]
+}

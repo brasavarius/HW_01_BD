@@ -1,0 +1,57 @@
+Table transactions {
+  transaction_id int [pk]
+  product_id int [not null]
+  customer_id int [not null]
+  transaction_date date
+  online_order bool
+  order_status bool 
+  list_price float
+}
+
+Table products {
+  product_id int [pk]
+  brand_id int [not null]
+  product_line varchar
+  product_class varchar
+  product_size varchar
+  standard_cost float
+}
+
+Table brands {
+  brand_id int [pk]
+  brand varchar
+}
+
+Table customers {
+  customer_id int [pk]
+  first_name varchar
+  last_name varchar
+  gender varchar
+  date_of_birth date
+  wealth_segment varchar
+  deceased_indicator bool
+  owns_car bool
+  address_id int [not null]
+  profession_id int [not null]
+}
+
+Table addresses {
+  address_id int [pk]
+  address varchar
+  postcode int
+  state varchar
+  country varchar
+  property_valuation int
+}
+
+Table professions {
+  profession_id int [pk]
+  job_title varchar
+  job_industry_category varchar
+}
+
+Ref: transactions.customer_id > customers.customer_id
+Ref: transactions.product_id > products.product_id
+Ref: products.brand_id <> brands.brand_id
+Ref: customers.address_id <> addresses.address_id
+Ref: customers.profession_id > professions.profession_id

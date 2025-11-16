@@ -1,0 +1,123 @@
+{
+  "version": "1.0.0",
+  "darkMode": true,
+  "gridEnabling": false,
+  "detailLevel": "All",
+  "tablePositions": [
+    {
+      "name": "transactions",
+      "schemaName": "public",
+      "x": 969.72265625,
+      "y": -92
+    },
+    {
+      "name": "products",
+      "schemaName": "public",
+      "x": 509.17431640625,
+      "y": -189
+    },
+    {
+      "name": "brands",
+      "schemaName": "public",
+      "x": 106,
+      "y": -153
+    },
+    {
+      "name": "customers",
+      "schemaName": "public",
+      "x": 606,
+      "y": 322
+    },
+    {
+      "name": "addresses",
+      "schemaName": "public",
+      "x": 56.991455078125,
+      "y": 267
+    },
+    {
+      "name": "professions",
+      "schemaName": "public",
+      "x": 46.1142578125,
+      "y": 706
+    }
+  ],
+  "tableGroupCollapseStates": [],
+  "stickyNoteLayouts": [],
+  "referencePaths": [
+    {
+      "firstFieldNames": [
+        "customer_id"
+      ],
+      "firstTableName": "transactions",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "customer_id"
+      ],
+      "secondTableName": "customers",
+      "secondSchemaName": "public",
+      "secondRelation": "1",
+      "checkPoints": []
+    },
+    {
+      "firstFieldNames": [
+        "product_id"
+      ],
+      "firstTableName": "transactions",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "product_id"
+      ],
+      "secondTableName": "products",
+      "secondSchemaName": "public",
+      "secondRelation": "1",
+      "checkPoints": []
+    },
+    {
+      "firstFieldNames": [
+        "brand_id"
+      ],
+      "firstTableName": "products",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "brand_id"
+      ],
+      "secondTableName": "brands",
+      "secondSchemaName": "public",
+      "secondRelation": "*",
+      "checkPoints": []
+    },
+    {
+      "firstFieldNames": [
+        "address_id"
+      ],
+      "firstTableName": "customers",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "address_id"
+      ],
+      "secondTableName": "addresses",
+      "secondSchemaName": "public",
+      "secondRelation": "*",
+      "checkPoints": []
+    },
+    {
+      "firstFieldNames": [
+        "profession_id"
+      ],
+      "firstTableName": "customers",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "profession_id"
+      ],
+      "secondTableName": "professions",
+      "secondSchemaName": "public",
+      "secondRelation": "1",
+      "checkPoints": []
+    }
+  ]
+}

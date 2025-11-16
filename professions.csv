@@ -1,0 +1,197 @@
+profession_id,job_title,job_industry_category
+1,Account Coordinator,Argiculture
+2,Account Executive,Argiculture
+3,Account Representative I,Financial Services
+4,Account Representative II,Financial Services
+5,Account Representative III,Entertainment
+6,Account Representative IV,Argiculture
+7,Accountant I,Entertainment
+8,Accountant II,Entertainment
+9,Accountant III,Financial Services
+10,Accountant IV,Financial Services
+11,Accounting Assistant I,Financial Services
+12,Accounting Assistant II,IT
+13,Accounting Assistant III,Entertainment
+14,Accounting Assistant IV,Manufacturing
+15,Actuary,Financial Services
+16,Administrative Assistant I,Argiculture
+17,Administrative Assistant II,Financial Services
+18,Administrative Assistant III,Argiculture
+19,Administrative Assistant IV,Argiculture
+20,Administrative Officer,Argiculture
+21,Analog Circuit Design manager,Financial Services
+22,Analyst Programmer,Financial Services
+23,Assistant Manager,Argiculture
+24,Assistant Media Planner,Entertainment
+25,Assistant Professor,Argiculture
+26,Associate Professor,Argiculture
+27,Automation Specialist I,Manufacturing
+28,Automation Specialist II,Entertainment
+29,Automation Specialist III,Manufacturing
+30,Automation Specialist IV,Financial Services
+31,Biostatistician I,Argiculture
+32,Biostatistician II,Entertainment
+33,Biostatistician III,Health
+34,Biostatistician IV,Argiculture
+35,Budget/Accounting Analyst I,Argiculture
+36,Budget/Accounting Analyst II,Financial Services
+37,Budget/Accounting Analyst III,Financial Services
+38,Budget/Accounting Analyst IV,Entertainment
+39,Business Systems Development Analyst,Argiculture
+40,Chemical Engineer,Manufacturing
+41,Chief Design Engineer,Financial Services
+42,Civil Engineer,Manufacturing
+43,Clinical Specialist,Health
+44,Community Outreach Specialist,Entertainment
+45,Compensation Analyst,Financial Services
+46,Computer Systems Analyst I,Argiculture
+47,Computer Systems Analyst II,Entertainment
+48,Computer Systems Analyst III,Financial Services
+49,Computer Systems Analyst IV,Financial Services
+50,Cost Accountant,Financial Services
+51,Data Coordiator,Entertainment
+52,Database Administrator I,Argiculture
+53,Database Administrator II,n/a
+54,Database Administrator III,Financial Services
+55,Database Administrator IV,Manufacturing
+56,Dental Hygienist,Health
+57,Design Engineer,Financial Services
+58,Desktop Support Technician,Argiculture
+59,Developer I,Financial Services
+60,Developer II,Financial Services
+61,Developer III,Financial Services
+62,Developer IV,Health
+63,Director of Sales,Argiculture
+64,Editor,Argiculture
+65,Electrical Engineer,Manufacturing
+66,Engineer I,Manufacturing
+67,Engineer II,Argiculture
+68,Engineer III,Financial Services
+69,Engineer IV,Argiculture
+70,Environmental Specialist,Argiculture
+71,Environmental Tech,Argiculture
+72,Executive Secretary,Argiculture
+73,Financial Advisor,Financial Services
+74,Financial Analyst,Financial Services
+75,Food Chemist,Health
+76,General Manager,Argiculture
+77,Geological Engineer,Manufacturing
+78,Geologist I,Entertainment
+79,Geologist II,Argiculture
+80,Geologist III,Financial Services
+81,Geologist IV,Entertainment
+82,GIS Technical Architect,Argiculture
+83,Graphic Designer,Entertainment
+84,Health Coach I,Health
+85,Health Coach II,Entertainment
+86,Health Coach III,Health
+87,Health Coach IV,Health
+88,Help Desk Operator,Argiculture
+89,Help Desk Technician,Argiculture
+90,Human Resources Assistant I,Financial Services
+91,Human Resources Assistant II,Financial Services
+92,Human Resources Assistant III,Financial Services
+93,Human Resources Assistant IV,Manufacturing
+94,Human Resources Manager,Financial Services
+95,Information Systems Manager,Argiculture
+96,Internal Auditor,Entertainment
+97,Junior Executive,Argiculture
+98,Legal Assistant,Argiculture
+99,Librarian,Entertainment
+100,Marketing Assistant,Argiculture
+101,Marketing Manager,Argiculture
+102,Mechanical Systems Engineer,Argiculture
+103,Media Manager I,Health
+104,Media Manager II,Financial Services
+105,Media Manager III,Financial Services
+106,Media Manager IV,Argiculture
+107,Nuclear Power Engineer,Manufacturing
+108,Nurse,Argiculture
+109,Nurse Practicioner,Argiculture
+110,Occupational Therapist,Health
+111,Office Assistant I,Health
+112,Office Assistant II,Argiculture
+113,Office Assistant III,Financial Services
+114,Office Assistant IV,Financial Services
+115,Operator,Argiculture
+116,Paralegal,Financial Services
+117,Payment Adjustment Coordinator,Financial Services
+118,Pharmacist,Health
+119,Physical Therapy Assistant,Argiculture
+120,Product Engineer,Argiculture
+121,Professor,Argiculture
+122,Programmer Analyst I,Financial Services
+123,Programmer Analyst II,Financial Services
+124,Programmer Analyst III,Entertainment
+125,Programmer Analyst IV,Manufacturing
+126,Programmer I,Argiculture
+127,Programmer II,Financial Services
+128,Programmer III,Argiculture
+129,Programmer IV,Argiculture
+130,Project Manager,Argiculture
+131,Quality Control Specialist,Financial Services
+132,Quality Engineer,Entertainment
+133,Recruiter,Argiculture
+134,Recruiting Manager,Financial Services
+135,Registered Nurse,Health
+136,Research Assistant I,Argiculture
+137,Research Assistant II,Argiculture
+138,Research Assistant III,Financial Services
+139,Research Assistant IV,Health
+140,Research Associate,Argiculture
+141,Research Nurse,Health
+142,Safety Technician I,Financial Services
+143,Safety Technician II,Financial Services
+144,Safety Technician III,Argiculture
+145,Safety Technician IV,Entertainment
+146,Sales Associate,Financial Services
+147,Sales Representative,Retail
+148,Senior Cost Accountant,Financial Services
+149,Senior Developer,Argiculture
+150,Senior Editor,Financial Services
+151,Senior Financial Analyst,Financial Services
+152,Senior Quality Engineer,Argiculture
+153,Senior Sales Associate,Argiculture
+154,Social Worker,Health
+155,Software Consultant,Entertainment
+156,Software Engineer I,Financial Services
+157,Software Engineer II,Financial Services
+158,Software Engineer III,Financial Services
+159,Software Engineer IV,Financial Services
+160,Software Test Engineer I,Argiculture
+161,Software Test Engineer II,Financial Services
+162,Software Test Engineer III,Entertainment
+163,Software Test Engineer IV,Entertainment
+164,Speech Pathologist,Financial Services
+165,Staff Accountant I,Financial Services
+166,Staff Accountant II,Financial Services
+167,Staff Accountant III,Entertainment
+168,Staff Accountant IV,Health
+169,Staff Scientist,Argiculture
+170,Statistician I,Financial Services
+171,Statistician II,Financial Services
+172,Statistician III,Health
+173,Statistician IV,Argiculture
+174,Structural Analysis Engineer,Argiculture
+175,Structural Engineer,Argiculture
+176,Systems Administrator I,Entertainment
+177,Systems Administrator II,Manufacturing
+178,Systems Administrator III,Argiculture
+179,Systems Administrator IV,Financial Services
+180,Tax Accountant,Argiculture
+181,Teacher,Entertainment
+182,Technical Writer,Financial Services
+183,VP Accounting,Financial Services
+184,VP Marketing,Entertainment
+185,VP Product Management,Argiculture
+186,VP Quality Control,Argiculture
+187,VP Sales,Financial Services
+188,Web Designer I,Financial Services
+189,Web Designer II,IT
+190,Web Designer III,Argiculture
+191,Web Designer IV,Financial Services
+192,Web Developer I,Financial Services
+193,Web Developer II,Entertainment
+194,Web Developer III,Entertainment
+195,Web Developer IV,Argiculture
+197,,Argiculture
